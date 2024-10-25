@@ -1,0 +1,17 @@
+langchain==0.0.279
+pinecone_client==2.2.2
+streamlit==1.26.0
+openai
+chromadb
+tiktoken
+groq
+python-dotenv
+openai
+pandas
+pymongo
+numpy
+llama-index
+llama-parse
+odfpy
+llama-index-embeddings-openai
+tabulate
